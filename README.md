@@ -1,6 +1,6 @@
 # Analyzing Accenture Dataset (Social Buzz)
 
-### Analyzing data based on datasets presented by Accenture.
+### Analyzing data based on datasets presented by Accenture for Social Platform: Social Buzz.
 
 The Analysis is for a social platform (Social Buzz) looking to learn more about their data and seeking professional help through analysis.
 
