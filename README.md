@@ -1,4 +1,4 @@
-# analyzing_accenture_dataset
+# Analyzing Accenture Dataset (Social Buzz)
 
 ### Analyzing data based on datasets presented by Accenture.
 
