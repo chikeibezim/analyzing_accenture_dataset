@@ -4,7 +4,7 @@
 
 The Analysis is for a social platform (Social Buzz) looking to learn more about their data and seeking professional help through analysis.
 
-The analysis was carried out using python, and libraries used include Pandas, MatplotLib for visualization and Numpy for several analysis and computations. And analalysis was conducted on over 24,000 reactions made on 1000 posts.
+The analysis was carried out using python, and libraries used include Pandas, MatplotLib for visualization and Numpy for several analysis and computations. And analysis was conducted on over 24,000 reactions made on 1000 posts.
 
 #### Analysis Conducted Inludes Finding:
 - The Top Five most popular Categories of Content Posted by Users
